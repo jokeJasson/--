@@ -19,6 +19,16 @@
 		EEAA6065188F9DB9007F1F33 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEAA604D188F9DB9007F1F33 /* UIKit.framework */; };
 		EEAA606D188F9DB9007F1F33 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EEAA606B188F9DB9007F1F33 /* InfoPlist.strings */; };
 		EEAA606F188F9DB9007F1F33 /* __Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = EEAA606E188F9DB9007F1F33 /* __Tests.m */; };
+		EEAA607A188F9DD8007F1F33 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EEAA6079188F9DD8007F1F33 /* RootViewController.m */; };
+		EEAA6083188F9FF4007F1F33 /* huoju_1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA607B188F9FF4007F1F33 /* huoju_1.tiff */; };
+		EEAA6084188F9FF4007F1F33 /* huoju_2.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA607C188F9FF4007F1F33 /* huoju_2.tiff */; };
+		EEAA6085188F9FF4007F1F33 /* huoju_3.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA607D188F9FF4007F1F33 /* huoju_3.tiff */; };
+		EEAA6086188F9FF4007F1F33 /* huoju_4.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA607E188F9FF4007F1F33 /* huoju_4.tiff */; };
+		EEAA6087188F9FF4007F1F33 /* huoju_5.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA607F188F9FF4007F1F33 /* huoju_5.tiff */; };
+		EEAA6088188F9FF4007F1F33 /* huoju_6.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA6080188F9FF4007F1F33 /* huoju_6.tiff */; };
+		EEAA6089188F9FF4007F1F33 /* huoju_7.tiff in Resources */ = {isa = PBXBuildFile; fileRef = EEAA6081188F9FF4007F1F33 /* huoju_7.tiff */; };
+		EEAA608A188F9FF4007F1F33 /* iphone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EEAA6082188F9FF4007F1F33 /* iphone.jpg */; };
+		EEAA608C188FB6A7007F1F33 /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = EEAA608B188FB6A7007F1F33 /* 111.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +58,17 @@
 		EEAA606A188F9DB9007F1F33 /* 动画Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "动画Tests-Info.plist"; sourceTree = "<group>"; };
 		EEAA606C188F9DB9007F1F33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EEAA606E188F9DB9007F1F33 /* __Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __Tests.m; sourceTree = "<group>"; };
+		EEAA6078188F9DD8007F1F33 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		EEAA6079188F9DD8007F1F33 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		EEAA607B188F9FF4007F1F33 /* huoju_1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_1.tiff; sourceTree = "<group>"; };
+		EEAA607C188F9FF4007F1F33 /* huoju_2.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_2.tiff; sourceTree = "<group>"; };
+		EEAA607D188F9FF4007F1F33 /* huoju_3.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_3.tiff; sourceTree = "<group>"; };
+		EEAA607E188F9FF4007F1F33 /* huoju_4.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_4.tiff; sourceTree = "<group>"; };
+		EEAA607F188F9FF4007F1F33 /* huoju_5.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_5.tiff; sourceTree = "<group>"; };
+		EEAA6080188F9FF4007F1F33 /* huoju_6.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_6.tiff; sourceTree = "<group>"; };
+		EEAA6081188F9FF4007F1F33 /* huoju_7.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = huoju_7.tiff; sourceTree = "<group>"; };
+		EEAA6082188F9FF4007F1F33 /* iphone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iphone.jpg; sourceTree = "<group>"; };
+		EEAA608B188FB6A7007F1F33 /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +130,8 @@
 			children = (
 				EEAA6058188F9DB9007F1F33 /* AppDelegate.h */,
 				EEAA6059188F9DB9007F1F33 /* AppDelegate.m */,
+				EEAA6078188F9DD8007F1F33 /* RootViewController.h */,
+				EEAA6079188F9DD8007F1F33 /* RootViewController.m */,
 				EEAA605B188F9DB9007F1F33 /* Images.xcassets */,
 				EEAA6050188F9DB9007F1F33 /* Supporting Files */,
 			);
@@ -118,6 +141,15 @@
 		EEAA6050188F9DB9007F1F33 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EEAA608B188FB6A7007F1F33 /* 111.png */,
+				EEAA607B188F9FF4007F1F33 /* huoju_1.tiff */,
+				EEAA607C188F9FF4007F1F33 /* huoju_2.tiff */,
+				EEAA607D188F9FF4007F1F33 /* huoju_3.tiff */,
+				EEAA607E188F9FF4007F1F33 /* huoju_4.tiff */,
+				EEAA607F188F9FF4007F1F33 /* huoju_5.tiff */,
+				EEAA6080188F9FF4007F1F33 /* huoju_6.tiff */,
+				EEAA6081188F9FF4007F1F33 /* huoju_7.tiff */,
+				EEAA6082188F9FF4007F1F33 /* iphone.jpg */,
 				EEAA6051188F9DB9007F1F33 /* 动画-Info.plist */,
 				EEAA6052188F9DB9007F1F33 /* InfoPlist.strings */,
 				EEAA6055188F9DB9007F1F33 /* main.m */,
@@ -219,8 +251,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEAA6083188F9FF4007F1F33 /* huoju_1.tiff in Resources */,
+				EEAA6085188F9FF4007F1F33 /* huoju_3.tiff in Resources */,
+				EEAA608C188FB6A7007F1F33 /* 111.png in Resources */,
+				EEAA608A188F9FF4007F1F33 /* iphone.jpg in Resources */,
 				EEAA6054188F9DB9007F1F33 /* InfoPlist.strings in Resources */,
+				EEAA6088188F9FF4007F1F33 /* huoju_6.tiff in Resources */,
+				EEAA6087188F9FF4007F1F33 /* huoju_5.tiff in Resources */,
+				EEAA6086188F9FF4007F1F33 /* huoju_4.tiff in Resources */,
+				EEAA6089188F9FF4007F1F33 /* huoju_7.tiff in Resources */,
 				EEAA605C188F9DB9007F1F33 /* Images.xcassets in Resources */,
+				EEAA6084188F9FF4007F1F33 /* huoju_2.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,6 +282,7 @@
 			files = (
 				EEAA605A188F9DB9007F1F33 /* AppDelegate.m in Sources */,
 				EEAA6056188F9DB9007F1F33 /* main.m in Sources */,
+				EEAA607A188F9DD8007F1F33 /* RootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,6 +401,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "动画/动画-Prefix.pch";
 				INFOPLIST_FILE = "动画/动画-Info.plist";
@@ -372,6 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "动画/动画-Prefix.pch";
 				INFOPLIST_FILE = "动画/动画-Info.plist";
