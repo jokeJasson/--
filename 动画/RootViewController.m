@@ -132,6 +132,9 @@
 
 -(void)tapAction:(UITapGestureRecognizer *)gesture{
     NSLog(@"%s",__func__);
+    
+    
+    //nihaoa
 }
 
 
